@@ -1,6 +1,6 @@
 class AppKeys {
   static const bool isDebug = false;
-  static const String apiKey = "AIzaSyBSawWJWTLm56hFvJWIlLWvwIrGbcSZ9aI";
+  static const String apiKey = "Replace with Google map ApiKeys";
   static const String googlePhotoBaseUrl =
       "https://maps.googleapis.com/maps/api/place/photo";
   static const String defaultIconUrl =
