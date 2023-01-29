@@ -40,6 +40,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   _onPlaceChanges(String value) async {
     if (value.length < 4) return;
+
     _customInfoWindowController.hideInfoWindow!();
     final result = await LocationService.getPlacesAutoComplete(value);
     if (!result.success) {
