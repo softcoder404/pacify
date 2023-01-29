@@ -1,5 +1,5 @@
 # pacify
-An App that displace current user location on google map, and enable user to search for places near to them
+An App that displace current user location on google map, and enable user to search for places near them
 
 ### Demo
 ###### 1. main screen with empty search state 2. main screen with markers 3. main screen custom marker's card 4. details screen
